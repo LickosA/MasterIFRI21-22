@@ -1,7 +1,7 @@
 # Rapport TP - TCP/IP
 
-Nom & Prénoms : **Malick K. ALASSANE** 
-Filière :  **Master 1 -  Sécurité Informatique** 
+Nom & Prénoms : **Malick K. ALASSANE** <br>
+Filière :  **Master 1 -  Sécurité Informatique** <br>
 **Institut de formation et de Recherche en Informatique**
 
 # Présentation et Objectifs du TP
@@ -637,8 +637,4 @@ dig -x 192.168.1.1
 
 # **Fin du TP**
 
-Réalisé par :
-
-**Malick ALASSANE,**
-
-**alkomalick@gmail.com**
+Réalisé par : [Malick](https://twitter.com/LickosA)
